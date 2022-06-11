@@ -19,7 +19,7 @@
                 <label for="InputCuadrado">Escribe cuánto mide cada lado de tu cuadrado:</label> <!--Recuerda que para conectar mi label con el input, debo añadir el mismo valor tanto en el for del label como en el id del input-->
                 <input id="InputCuadrado" type="number" />
                 <button type="button" onclick="calcularPerimetroCuadrado()">Calcular perímetro</button>
-                <button type="button" onclick="calcularAreaCuadrado()">Calcular área</button>
+                <button type="button" onclick="calcularAreaCuadrado()">Calcular área</button> <!-- El type="button" es para evitar que al darle click al botón, se recargue la pág y me borre los datos del input. Esto ocurre a razón de que el type por defecto de los button dentro de un form es "submit"-->
                 <!--Hacer los input para calcular las áreas y perímetros de un triángulo y un círculo-->
             </form>
         </section>
