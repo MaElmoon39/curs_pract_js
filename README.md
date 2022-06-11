@@ -14,3 +14,10 @@ Proyectos a desarrollar durante el curso práctico de JavaScript
 -Paso 2: implementar las fórmulas en JS
 -Paso 3: crear funciones
 -Paso 4: integrar JS con HTML
+
+## Taller #3: Promedio, mediana y moda
+
+-Paso 1: definir las fórmulas
+-Paso 2: implementar las fórmulas en JS
+-Paso 3: crear funciones: una para el promedio, otra para la mediana y otra para la moda
+-Paso 4: integrar JS con HTML
